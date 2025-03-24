@@ -31,20 +31,20 @@ To work in the field of Cybersecurity and Computer Networks, applying my knowled
 </div>
 
 ### CyberSecurity
-</div>
+<div>
     <img src="https://img.shields.io/badge/-Pentesting-FF5733?style=for-the-badge&logo=security&logoColor=white" />
     <img src="https://img.shields.io/badge/-Firewall-FF5733?style=for-the-badge&logo=firewall&logoColor=white" />
     <img src="https://img.shields.io/badge/-LGPD-1F4F56?style=for-the-badge&logo=legal&logoColor=white" />
 </div>
 
 ### Monitoring
-</div>
+<div>
     <img src="https://img.shields.io/badge/-Zabbix-FF6600?style=for-the-badge&logo=zabbix&logoColor=white" />
     <img src="https://img.shields.io/badge/-Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
 </div>
 
 ### Scripting and Automation
-</div>
+<div>
     <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
     <img src="https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
     <img src="https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
