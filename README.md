@@ -11,13 +11,12 @@ To work in the field of Cybersecurity and Computer Networks, applying my knowled
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Operating Systems                             | <a href="https://google.com">Detection Lab</a>|
-| Networking & Infrastructure                   | <a href="https://google.com">Detection Lab</a>|
+| Operating Systems                             | Linux, Windows |
+| Networking & Infrastructure                   | Active Directory (AD), DNS, DHCP, Structured Cabling|
 | Cloud Computing                               | AWS (EC2, S3, VPC, IAM, Lambda)|
-| Cybersecurity                                 | SOC Automation Lab|
-| Monitoring                                    | SOC Automation Lab|
-| Programming & Automation                      | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Cybersecurity                                 | Pentesting, Firewall, LGPD (General Data Protection Law)|
+| Monitoring                                    | Zabbix, Grafana|
+| Scripting and Automation for Threat Mitigation | Python, Bash, C, PowerShell|
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
