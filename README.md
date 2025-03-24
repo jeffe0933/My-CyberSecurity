@@ -5,18 +5,17 @@ I have a degree in Computer Networks and a postgraduate specialization in Cybers
 
 ## Objective
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+To work in the field of Cybersecurity and Computer Networks, applying my knowledge to enhance the security of systems, networks, and data. I aim to contribute to the implementation of cybersecurity solutions, risk management, and secure infrastructure, ensuring the integrity, availability, and confidentiality of information.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
+| Operating Systems                             | <a href="https://google.com">Detection Lab</a>|
+| Networking & Infrastructure                   | <a href="https://google.com">Detection Lab</a>|
+| Cybersecurity                                 | SOC Automation Lab|
+| Monitoring                                    | SOC Automation Lab|
+| Programming & Automation                      | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
