@@ -77,13 +77,21 @@ To work in the field of Cybersecurity and Computer Networks, applying my knowled
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
+
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+    <!-- Networking & Infrastructure -->
+    <img src="https://img.shields.io/badge/-NS1-0066CC?style=for-the-badge&logo=cisco&logoColor=white" />
+    <img src="https://img.shields.io/badge/-NS2-0066CC?style=for-the-badge&logo=cisco&logoColor=white" />
+    <img src="https://img.shields.io/badge/-NS3-0066CC?style=for-the-badge&logo=cisco&logoColor=white" />
+    <img src="https://img.shields.io/badge/-QoS-00A6A6?style=for-the-badge&logo=network&logoColor=white" />
+    <!-- Cybersecurity -->
+    <img src="https://img.shields.io/badge/-CyberSecurity%20Essentials-009C1E?style=for-the-badge&logo=cissp&logoColor=white" />
+    <img src="https://img.shields.io/badge/-DPO%20&%20LGPD-002F6C?style=for-the-badge&logo=privacy&logoColor=white" />
+    <!-- Microsoft Certifications -->
+    <img src="https://img.shields.io/badge/-MS%20Certified%20Modern%20Desktop%20Administrator%20Associate%20(MS-900)-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-MS%20Certified%20Security%2C%20Compliance%20and%20Identity%20Fundamentals%20(SC-900)-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+    <!-- Other Skills -->
+    <img src="https://img.shields.io/badge/-Excel%20Expert-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
 </div>
 
 ## Projects
