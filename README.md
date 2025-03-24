@@ -30,17 +30,33 @@ To work in the field of Cybersecurity and Computer Networks, applying my knowled
     <img src="https://img.shields.io/badge/-Structured%20Cabling-555555?style=for-the-badge&logo=network&logoColor=white" />
 </div>
 
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+### CyberSecurity
+</div>
+    <img src="https://img.shields.io/badge/-Pentesting-FF5733?style=for-the-badge&logo=security&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Firewall-FF5733?style=for-the-badge&logo=firewall&logoColor=white" />
+    <img src="https://img.shields.io/badge/-LGPD-1F4F56?style=for-the-badge&logo=legal&logoColor=white" />
 </div>
 
-### SIEM
+### Monitoring
+</div>
+    <img src="https://img.shields.io/badge/-Zabbix-FF6600?style=for-the-badge&logo=zabbix&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+</div>
+
+### Scripting and Automation
+</div>
+    <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Powershell-2E2D88?style=for-the-badge&logo=powershell&logoColor=white" />
+</div>
+
+### Endpoint
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Microsoft%20365-0078D4?style=for-the-badge&logo=microsoftoffice&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Kaspersky-1B9A28?style=for-the-badge&logo=kaspersky&logoColor=white" />
+    <img src="https://img.shields.io/badge/-PfSense-313131?style=for-the-badge&logo=pfsense&logoColor=white" />
+    <img src="https://img.shields.io/badge/-UniFi-009A99?style=for-the-badge&logo=ubiquiti&logoColor=white" />
 </div>
 
 ## Certifications
@@ -54,5 +70,5 @@ To work in the field of Cybersecurity and Computer Networks, applying my knowled
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+-
+- 
