@@ -13,6 +13,7 @@ To work in the field of Cybersecurity and Computer Networks, applying my knowled
 |-----------------------------------------------|----------------------------|
 | Operating Systems                             | <a href="https://google.com">Detection Lab</a>|
 | Networking & Infrastructure                   | <a href="https://google.com">Detection Lab</a>|
+| Cloud Computing                               | AWS (EC2, S3, VPC, IAM, Lambda)|
 | Cybersecurity                                 | SOC Automation Lab|
 | Monitoring                                    | SOC Automation Lab|
 | Programming & Automation                      | SOC Automation Lab|
@@ -24,6 +25,7 @@ To work in the field of Cybersecurity and Computer Networks, applying my knowled
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Active%20Directory-0A66C2?style=for-the-badge&logo=microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
     <img src="https://img.shields.io/badge/-DNS-FF6C37?style=for-the-badge&logo=google-public-dns&logoColor=white" />
     <img src="https://img.shields.io/badge/-DHCP-0088CC?style=for-the-badge&logo=internet-explorer&logoColor=white" />
     <img src="https://img.shields.io/badge/-Structured%20Cabling-555555?style=for-the-badge&logo=network&logoColor=white" />
