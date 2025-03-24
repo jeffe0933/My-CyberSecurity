@@ -32,7 +32,7 @@ To work in the field of Cybersecurity and Computer Networks, applying my knowled
     <img src="https://img.shields.io/badge/-VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" />
     <img src="https://img.shields.io/badge/-VirtualBox-1E1E1E?style=for-the-badge&logo=virtualbox&logoColor=white" />
     <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Hyper-V-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Hyper%20V-00A4EF?style=for-the-badge&logo=microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" />
     <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </div>
