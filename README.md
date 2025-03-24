@@ -19,7 +19,24 @@ To work in the field of Cybersecurity and Computer Networks, applying my knowled
 | Scripting and Automation for Threat Mitigation | Python, Bash, C, PowerShell|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+<div>
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Nagios-000000?style=for-the-badge&logo=nagios&logoColor=white" />
+    <img src="https://img.shields.io/badge/-GLPI-2D3D3D?style=for-the-badge&logo=glpi&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Cisco%20Packet%20Tracer-1C1C1C?style=for-the-badge&logo=cisco&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Kali%20Linux-557C8A?style=for-the-badge&logo=kali-linux&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Metasploit-BC232B?style=for-the-badge&logo=metasploit&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Zabbix-FF6600?style=for-the-badge&logo=zabbix&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+    <img src="https://img.shields.io/badge/-VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" />
+    <img src="https://img.shields.io/badge/-VirtualBox-1E1E1E?style=for-the-badge&logo=virtualbox&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Hyper-V-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+</div>
+
 
 ### Network
 <div>
