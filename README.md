@@ -24,7 +24,7 @@ To work in the field of Cybersecurity and Computer Networks, applying my knowled
     <img src="https://img.shields.io/badge/-Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white" />
     <img src="https://img.shields.io/badge/-Nagios-000000?style=for-the-badge&logo=nagios&logoColor=white" />
     <img src="https://img.shields.io/badge/-GLPI-2D3D3D?style=for-the-badge&logo=glpi&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Milvus-2D3D3D?style=for-the-badge&logo=Milvus&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Milvus-90EE90?style=for-the-badge&logo=Milvus&logoColor=white" />
     <img src="https://img.shields.io/badge/-Cisco%20Packet%20Tracer-1C1C1C?style=for-the-badge&logo=cisco&logoColor=white" />
     <img src="https://img.shields.io/badge/-Kali%20Linux-557C8A?style=for-the-badge&logo=kali-linux&logoColor=white" />
     <img src="https://img.shields.io/badge/-Metasploit-BC232B?style=for-the-badge&logo=metasploit&logoColor=white" />
